@@ -12,8 +12,8 @@ async function sendMessage() {
     userInput.value = '';
     chatBox.scrollTop = chatBox.scrollHeight;
 
-    const endpoint = 'https://ai-viniciusoliveira2626662ai794290847794.openai.azure.com';
-    const apiKey = '1p6oftlt1KyunnNPGG2lG415ZDbZ9Su1O2P0lKs5PJuxKvAyXZgvJQQJ99BEACHYHv6XJ3w3AAAAACOGBV6h';
+    const endpoint = 'url';
+    const apiKey = 'chave';
     const deploymentId = 'gpt-4';
     const apiVersion = '2025-01-01-preview';
 
